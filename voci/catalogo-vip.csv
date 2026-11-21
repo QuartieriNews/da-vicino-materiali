@@ -17,10 +17,10 @@ vip-cassia-roberta-serdoz-01.mp3,I VIP del quartiere,Roberta Serdoz (Cassia),Umb
 vip-cassia-venanzo-crocetti-01.mp3,I VIP del quartiere,Venanzo Crocetti (Cassia),Umbriel,gemini-3.8-flash-tts,2026-11-10
 vip-centocelle-dacia-maraini-01.mp3,I VIP del quartiere,Dacia Maraini (Centocelle),Umbriel,gemini-3.8-flash-tts,2026-11-09
 vip-centocelle-daniele-corvia-01.mp3,I VIP del quartiere,Daniele Corvia (Centocelle),Umbriel,gemini-3.1-flash-tts-preview,2026-11-10
-vip-centocelle-francesca-barreca-01.mp3,I VIP del quartiere,Francesca Barreca (Centocelle),Umbriel,gemini-3.8-flash-tts,2026-11-10
-vip-centocelle-mario-calderara-01.mp3,I VIP del quartiere,Mario Calderara (Centocelle),Umbriel,gemini-3.8-flash-tts,2026-11-10
+vip-centocelle-francesca-barreca-01.mp3,I VIP del quartiere,Francesca Barreca (Centocelle),Umbriel,gemini-3.1-flash-tts-preview,2026-11-14
+vip-centocelle-mario-calderara-01.mp3,I VIP del quartiere,Mario Calderara (Centocelle),Umbriel,gemini-3.1-flash-tts-preview,2026-11-14
 vip-centocelle-michela-di-biase-01.mp3,I VIP del quartiere,Michela Di Biase (Centocelle),Umbriel,gemini-3.8-flash-tts,2026-11-10
-vip-centocelle-michele-zarrillo-01.mp3,I VIP del quartiere,Michele Zarrillo (Centocelle),Umbriel,gemini-3.8-flash-tts,2026-11-09
+vip-centocelle-michele-zarrillo-01.mp3,I VIP del quartiere,Michele Zarrillo (Centocelle),Umbriel,gemini-3.1-flash-tts-preview,2026-11-14
 vip-centocelle-pasquale-panella-01.mp3,I VIP del quartiere,Pasquale Panella (Centocelle),Umbriel,gemini-3.8-flash-tts,2026-11-10
 vip-centocelle-stefano-fresi-01.mp3,I VIP del quartiere,Stefano Fresi (Centocelle),Umbriel,gemini-3.8-flash-tts,2026-11-10
 vip-centocelle-tazio-secchiaroli-01.mp3,I VIP del quartiere,Tazio Secchiaroli (Centocelle),Umbriel,gemini-3.1-flash-tts-preview,2026-11-10
@@ -54,10 +54,10 @@ vip-montesacro-achille-lauro-01.mp3,I VIP del quartiere,Achille Lauro (Lauro De 
 vip-montesacro-alessandro-michele-01.mp3,I VIP del quartiere,Alessandro Michele (Montesacro),Umbriel,gemini-3.8-flash-tts,2026-11-09
 vip-montesacro-ennio-flaiano-01.mp3,I VIP del quartiere,Ennio Flaiano (Montesacro),Umbriel,gemini-3.8-flash-tts,2026-11-10
 vip-montesacro-giorgio-bassani-01.mp3,I VIP del quartiere,Giorgio Bassani (Montesacro),Umbriel,gemini-3.8-flash-tts,2026-11-10
-vip-montesacro-gustavo-giovannoni-01.mp3,I VIP del quartiere,Gustavo Giovannoni (Montesacro),Umbriel,gemini-3.1-flash-tts-preview,2026-11-10
-vip-montesacro-oliviero-beha-01.mp3,I VIP del quartiere,Oliviero Beha (Montesacro),Umbriel,gemini-3.1-flash-tts-preview,2026-11-10
+vip-montesacro-gustavo-giovannoni-01.mp3,I VIP del quartiere,Gustavo Giovannoni (Montesacro),Umbriel,gemini-3.1-flash-tts-preview,2026-11-14
+vip-montesacro-oliviero-beha-01.mp3,I VIP del quartiere,Oliviero Beha (Montesacro),Umbriel,gemini-3.1-flash-tts-preview,2026-11-14
 vip-montesacro-peppino-de-filippo-01.mp3,I VIP del quartiere,Peppino De Filippo (Montesacro),Umbriel,gemini-3.8-flash-tts,2026-11-09
-vip-montesacro-sabina-guzzanti-01.mp3,I VIP del quartiere,Sabina Guzzanti (Montesacro),Umbriel,gemini-3.8-flash-tts,2026-11-10
+vip-montesacro-sabina-guzzanti-01.mp3,I VIP del quartiere,Sabina Guzzanti (Montesacro),Umbriel,gemini-3.1-flash-tts-preview,2026-11-14
 vip-montesacro-silvio-piola-01.mp3,I VIP del quartiere,Silvio Piola (Montesacro),Umbriel,gemini-3.8-flash-tts,2026-11-10
 vip-monteverde-alex-britti-01.mp3,I VIP del quartiere,Alex Britti (Monteverde),Umbriel,gemini-3.8-flash-tts,2026-11-10
 vip-monteverde-carlo-emilio-gadda-01.mp3,I VIP del quartiere,Carlo Emilio Gadda (Monteverde),Umbriel,gemini-3.8-flash-tts,2026-11-10
@@ -70,13 +70,13 @@ vip-monteverde-roberto-gualtieri-01.mp3,I VIP del quartiere,Roberto Gualtieri (M
 vip-ostia-angelo-bonelli-01.mp3,I VIP del quartiere,Angelo Bonelli (Ostia),Umbriel,gemini-3.8-flash-tts,2026-11-09
 vip-ostia-federica-angeli-01.mp3,I VIP del quartiere,Federica Angeli (Ostia),Umbriel,gemini-3.8-flash-tts,2026-11-09
 vip-ostia-guido-calza-01.mp3,I VIP del quartiere,Guido Calza (Ostia),Umbriel,gemini-3.8-flash-tts,2026-11-10
-vip-ostia-laura-adriani-01.mp3,I VIP del quartiere,Laura Adriani (Ostia),Umbriel,gemini-3.1-flash-tts-preview,2026-11-10
+vip-ostia-laura-adriani-01.mp3,I VIP del quartiere,Laura Adriani (Ostia),Umbriel,gemini-3.1-flash-tts-preview,2026-11-14
 vip-ostia-lorenzo-richelmy-01.mp3,I VIP del quartiere,Lorenzo Richelmy (Ostia),Umbriel,gemini-3.1-flash-tts-preview,2026-11-10
 vip-ostia-luca-serianni-01.mp3,I VIP del quartiere,Luca Serianni (Ostia),Umbriel,gemini-3.8-flash-tts,2026-11-10
 vip-ostia-luca-ward-01.mp3,I VIP del quartiere,Luca Ward (Ostia),Umbriel,gemini-3.8-flash-tts,2026-11-10
 vip-ostia-matteo-miceli-01.mp3,I VIP del quartiere,Matteo Miceli (Ostia),Umbriel,gemini-3.8-flash-tts,2026-11-10
 vip-ostia-micaela-ramazzotti-01.mp3,I VIP del quartiere,Micaela Ramazzotti (Ostia),Umbriel,gemini-3.8-flash-tts,2026-11-10
-vip-pietralata-claudio-ranieri-01.mp3,I VIP del quartiere,Claudio Ranieri (Pietralata),Umbriel,gemini-3.8-flash-tts,2026-11-09
+vip-pietralata-claudio-ranieri-01.mp3,I VIP del quartiere,Claudio Ranieri (Pietralata),Umbriel,gemini-3.1-flash-tts-preview,2026-11-14
 vip-pietralata-daniele-petrucci-01.mp3,I VIP del quartiere,Daniele Petrucci (Pietralata),Umbriel,gemini-3.1-flash-tts-preview,2026-11-10
 vip-pietralata-fabrizio-moro-01.mp3,I VIP del quartiere,Fabrizio Moro (Pietralata),Umbriel,gemini-3.8-flash-tts,2026-11-10
 vip-pietralata-fernando-orsi-01.mp3,I VIP del quartiere,Fernando Orsi (Pietralata),Umbriel,gemini-3.1-flash-tts-preview,2026-11-10
@@ -84,13 +84,13 @@ vip-pietralata-filippo-fiorentini-01.mp3,I VIP del quartiere,Filippo Fiorentini 
 vip-pietralata-giancarlo-fisichella-01.mp3,I VIP del quartiere,Giancarlo Fisichella (Pietralata),Umbriel,gemini-3.8-flash-tts,2026-11-09
 vip-pietralata-loredana-lipperini-01.mp3,I VIP del quartiere,Loredana Lipperini (Pietralata),Umbriel,gemini-3.8-flash-tts,2026-11-10
 vip-pietralata-michele-riondino-01.mp3,I VIP del quartiere,Michele Riondino (Pietralata),Umbriel,gemini-3.8-flash-tts,2026-11-10
-vip-pietralata-renzo-vespignani-01.mp3,I VIP del quartiere,Renzo Vespignani (Pietralata),Umbriel,gemini-3.8-flash-tts,2026-11-10
+vip-pietralata-renzo-vespignani-01.mp3,I VIP del quartiere,Renzo Vespignani (Pietralata),Umbriel,gemini-3.1-flash-tts-preview,2026-11-14
 vip-prati-adriano-panatta-01.mp3,I VIP del quartiere,Adriano Panatta (Prati),Umbriel,gemini-3.8-flash-tts,2026-11-09
 vip-prati-altiero-spinelli-01.mp3,I VIP del quartiere,Altiero Spinelli (Prati),Umbriel,gemini-3.8-flash-tts,2026-11-10
 vip-prati-errico-malatesta-01.mp3,I VIP del quartiere,Errico Malatesta (Prati),Umbriel,gemini-3.8-flash-tts,2026-11-10
 vip-prati-francesco-saverio-nitti-01.mp3,I VIP del quartiere,Francesco Saverio Nitti (Prati),Umbriel,gemini-3.1-flash-tts-preview,2026-11-10
 vip-prati-gabriella-carlucci-01.mp3,I VIP del quartiere,Gabriella Carlucci (Prati),Umbriel,gemini-3.8-flash-tts,2026-11-09
-vip-prati-gianni-borgna-01.mp3,I VIP del quartiere,Gianni Borgna (Prati),Umbriel,gemini-3.1-flash-tts-preview,2026-11-10
+vip-prati-gianni-borgna-01.mp3,I VIP del quartiere,Gianni Borgna (Prati),Umbriel,gemini-3.1-flash-tts-preview,2026-11-14
 vip-prati-giovanni-battista-bachelet-01.mp3,I VIP del quartiere,Giovanni Battista Bachelet (Prati),Umbriel,gemini-3.8-flash-tts,2026-11-10
 vip-prati-luca-marinelli-01.mp3,I VIP del quartiere,Luca Marinelli (Prati),Umbriel,gemini-3.8-flash-tts,2026-11-09
 vip-prati-marco-lombardo-radice-01.mp3,I VIP del quartiere,Marco Lombardo Radice (Prati),Umbriel,gemini-3.8-flash-tts,2026-11-10
@@ -107,10 +107,10 @@ vip-torre-angela-ferruccio-mazzola-01.mp3,I VIP del quartiere,Ferruccio Mazzola 
 vip-torre-angela-giovanni-tria-01.mp3,I VIP del quartiere,Giovanni Tria (Torre Angela),Umbriel,gemini-3.8-flash-tts,2026-11-10
 vip-torre-angela-ilenia-pastorelli-01.mp3,I VIP del quartiere,Ilenia Pastorelli (Torre Angela),Umbriel,gemini-3.8-flash-tts,2026-11-09
 vip-torre-angela-lamberto-maggiorani-01.mp3,I VIP del quartiere,Lamberto Maggiorani (Torre Angela),Umbriel,gemini-3.1-flash-tts-preview,2026-11-10
-vip-torre-angela-lorenzo-fioramonti-01.mp3,I VIP del quartiere,Lorenzo Fioramonti (Torre Angela),Umbriel,gemini-3.8-flash-tts,2026-11-10
+vip-torre-angela-lorenzo-fioramonti-01.mp3,I VIP del quartiere,Lorenzo Fioramonti (Torre Angela),Umbriel,gemini-3.1-flash-tts-preview,2026-11-14
 vip-torre-angela-marco-lodoli-01.mp3,I VIP del quartiere,Marco Lodoli (Torre Angela),Umbriel,gemini-3.8-flash-tts,2026-11-10
 vip-torre-angela-michael-folorunsho-01.mp3,I VIP del quartiere,Michael Folorunsho (Torre Angela),Umbriel,gemini-3.8-flash-tts,2026-11-10
-vip-torre-angela-paola-taverna-01.mp3,I VIP del quartiere,Paola Taverna (Torre Angela),Umbriel,gemini-3.8-flash-tts,2026-11-09
+vip-torre-angela-paola-taverna-01.mp3,I VIP del quartiere,Paola Taverna (Torre Angela),Umbriel,gemini-3.1-flash-tts-preview,2026-11-14
 vip-torrino-alessandro-bedini-01.mp3,I VIP del quartiere,Alessandro Bedini (Torrino),Umbriel,gemini-3.8-flash-tts,2026-11-10
 vip-torrino-davide-di-veroli-01.mp3,I VIP del quartiere,Davide Di Veroli (Torrino),Umbriel,gemini-3.8-flash-tts,2026-11-09
 vip-torrino-enrico-feroci-01.mp3,I VIP del quartiere,Enrico Feroci (Torrino),Umbriel,gemini-3.1-flash-tts-preview,2026-11-10
@@ -124,10 +124,10 @@ vip-trieste-angelo-de-fiore-01.mp3,I VIP del quartiere,Angelo De Fiore (Trieste-
 vip-trieste-beniamino-gigli-01.mp3,I VIP del quartiere,Beniamino Gigli (Trieste-Salario),Umbriel,gemini-3.1-flash-tts-preview,2026-11-10
 vip-trieste-franco-frattini-01.mp3,I VIP del quartiere,Franco Frattini (Trieste-Salario),Umbriel,gemini-3.8-flash-tts,2026-11-10
 vip-trieste-giorgio-parisi-01.mp3,I VIP del quartiere,Giorgio Parisi (Trieste-Salario),Umbriel,gemini-3.8-flash-tts,2026-11-09
-vip-trieste-marco-pannella-01.mp3,I VIP del quartiere,Marco Pannella (Trieste-Salario),Umbriel,gemini-3.8-flash-tts,2026-11-10
+vip-trieste-marco-pannella-01.mp3,I VIP del quartiere,Marco Pannella (Trieste-Salario),Umbriel,gemini-3.1-flash-tts-preview,2026-11-14
 vip-trieste-margherita-buy-01.mp3,I VIP del quartiere,Margherita Buy (Trieste-Salario),Umbriel,gemini-3.8-flash-tts,2026-11-10
 vip-trieste-nicola-perrotti-01.mp3,I VIP del quartiere,Nicola Perrotti (Trieste-Salario),Umbriel,gemini-3.8-flash-tts,2026-11-09
-vip-trieste-tullio-de-mauro-01.mp3,I VIP del quartiere,Tullio De Mauro (Trieste-Salario),Umbriel,gemini-3.8-flash-tts,2026-11-10
+vip-trieste-tullio-de-mauro-01.mp3,I VIP del quartiere,Tullio De Mauro (Trieste-Salario),Umbriel,gemini-3.1-flash-tts-preview,2026-11-14
 vip-prima-versione-date-centocelle-01.mp3,I VIP del quartiere,"date-centocelle (), prima versione",Umbriel,gemini-3.1-flash-tts-preview,2026-11-09
 vip-prima-versione-figurina-garbatella-01.mp3,I VIP del quartiere,"figurina-garbatella (), prima versione",Umbriel,gemini-3.1-flash-tts-preview,2026-11-08
 vip-prima-versione-indovina-montesacro-01.mp3,I VIP del quartiere,"indovina-montesacro (), prima versione",Umbriel,gemini-3.1-flash-tts-preview,2026-11-09
